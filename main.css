@@ -74,7 +74,7 @@ ul#CatagoriesBar li a:hover:not(.active) {
   font-family: "Poppins", sans-serif;
   font-size: 35px;
   letter-spacing: 2px;
-  line-height: 0.5;
+  line-height: 1;
   padding: 0px 75px 0px 75px;
 }
 
@@ -82,7 +82,7 @@ ul#CatagoriesBar li a:hover:not(.active) {
   font-family: "Roboto", sans-serif;
   font-size: 22px;
   color: rgb(128, 128, 128);
-  letter-spacing: 0.5px;
+  letter-spacing: 1px;
   word-spacing: 1px;
   line-height: 0.5;
   padding: 0px 75px 0px 75px;
