@@ -84,7 +84,7 @@ ul#CatagoriesBar li a:hover:not(.active) {
   color: rgb(128, 128, 128);
   letter-spacing: 1px;
   word-spacing: 1px;
-  line-height: 0.5;
+  line-height: 1;
   padding: 0px 75px 0px 75px;
 }
 
