@@ -75,7 +75,7 @@ ul#CatagoriesBar li a:hover:not(.active) {
   font-size: 35px;
   letter-spacing: 2px;
   line-height: 0.5;
-  padding: 0px 50px 0px 75px;
+  padding: 0px 75px 0px 75px;
 }
 
 .Topic2 p {
@@ -85,7 +85,7 @@ ul#CatagoriesBar li a:hover:not(.active) {
   letter-spacing: 0.5px;
   word-spacing: 1px;
   line-height: 0.5;
-  padding: 0px 50px 0px 75px;
+  padding: 0px 75px 0px 75px;
 }
 
 #credits {
