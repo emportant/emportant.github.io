@@ -38,7 +38,8 @@ ul#CatagoriesBar li a:hover:not(.active) {
   font-size: 150px;
   margin-top: 45px;
   color: rgb(204, 204, 204);
-  -webkit-text-stroke: 0.1px black;
+  color: white;
+  -webkit-text-stroke: 1px black;
   padding: 100px;
   background-size: 900px 500px;
   background-repeat: no-repeat;
